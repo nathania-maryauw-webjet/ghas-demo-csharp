@@ -1,0 +1,41 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "spacing": {
+    "72": {
+      "value": "72px",
+      "type": "string"
+    }
+  },
+  "font": {
+    "family": {
+      "mono": {
+        "value": "DM Mono",
+        "type": "string",
+        "description": "DM Mono is used exclusively for numbered items on tables and price points."
+      },
+      "brand": {
+        "value": "Futura PT",
+        "type": "string"
+      },
+      "product": {
+        "value": "DM Sans",
+        "type": "string",
+        "description": "DM Sans, commonly used for interface typography."
+      },
+      "mono_1": {
+        "value": "String value",
+        "type": "string",
+        "description": "DM Mono is used exclusively for numbered items on tables and price points."
+      },
+      "brand_1": {
+        "value": "String value",
+        "type": "string"
+      },
+      "product_1": {
+        "value": "String value",
+        "type": "string",
+        "description": "DM Sans, commonly used for interface typography."
+      }
+    }
+  }
+}
