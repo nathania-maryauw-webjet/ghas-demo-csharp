@@ -1,0 +1,177 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "color": {
+    "base": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "grey": {
+      "100": {
+        "value": "#f9fafb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f3f4f6",
+        "type": "color"
+      },
+      "300": {
+        "value": "#e5e7eb",
+        "type": "color"
+      },
+      "400": {
+        "value": "#d1d5db",
+        "type": "color"
+      },
+      "500": {
+        "value": "#9ca3af",
+        "type": "color"
+      },
+      "600": {
+        "value": "#6b7280",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4b5563",
+        "type": "color"
+      },
+      "800": {
+        "value": "#374151",
+        "type": "color"
+      },
+      "900": {
+        "value": "#030712",
+        "type": "color"
+      }
+    },
+    "violet": {
+      "100": {
+        "value": "#eeeafb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#d9d3f5",
+        "type": "color"
+      },
+      "300": {
+        "value": "#b7aeeb",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8f7dd9",
+        "type": "color"
+      },
+      "500": {
+        "value": "#311ea8",
+        "type": "color"
+      },
+      "600": {
+        "value": "#29198e",
+        "type": "color"
+      },
+      "700": {
+        "value": "#201374",
+        "type": "color"
+      },
+      "800": {
+        "value": "#180e59",
+        "type": "color"
+      },
+      "900": {
+        "value": "#10063d",
+        "type": "color"
+      }
+    },
+    "pink": {
+      "50": {
+        "value": "#fdf2f8",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fce7f3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#f9a8d4",
+        "type": "color"
+      },
+      "400": {
+        "value": "#f472b6",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ec4899",
+        "type": "color"
+      },
+      "600": {
+        "value": "#db2777",
+        "type": "color"
+      },
+      "700": {
+        "value": "#be185d",
+        "type": "color"
+      }
+    },
+    "background": {
+      "primary": {
+        "default": {
+          "value": "{color.violet.500}",
+          "type": "color"
+        },
+        "default-hover": {
+          "value": "{color.background.primary.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.violet.300}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{color.violet.600}",
+          "type": "color"
+        },
+        "default-opacity": {
+          "value": "{color.background.primary.default}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.grey.300}",
+          "type": "color"
+        },
+        "default-hover": {
+          "value": "{color.background.secondary.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{color.grey.200}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{color.grey.600}",
+          "type": "color"
+        },
+        "default-disabled": {
+          "value": "{color.background.secondary.default}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{color.base.white}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color.base.black}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "dimension": {
+    "space": {
+      "2": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "4": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "8": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "12": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "16": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "24": {
+        "value": "24px",
+        "type": "dimension"
+      },
+      "32": {
+        "value": "32px",
+        "type": "dimension"
+      },
+      "48": {
+        "value": "48px",
+        "type": "dimension"
+      }
+    },
+    "radius": {
+      "xsmall": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "small": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "medium": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "large": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "xlarge": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "round": {
+        "value": "9999px",
+        "type": "dimension"
+      }
+    },
+    "size": {
+      "8": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "12": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "16": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "20": {
+        "value": "20px",
+        "type": "dimension"
+      },
+      "24": {
+        "value": "24px",
+        "type": "dimension"
+      },
+      "32": {
+        "value": "32px",
+        "type": "dimension"
+      },
+      "40": {
+        "value": "40px",
+        "type": "dimension"
+      },
+      "48": {
+        "value": "48px",
+        "type": "dimension"
+      }
+    },
+    "component": {
+      "button": {
+        "large": {
+          "padding": {
+            "value": "416px",
+            "type": "dimension"
+          },
+          "height": {
+            "value": "{dimension.size.48}",
+            "type": "dimension"
+          },
+          "radius": {
+            "value": "{dimension.radius.small}",
+            "type": "dimension"
+          }
+        },
+        "medium": {
+          "padding": {
+            "value": "412px",
+            "type": "dimension"
+          },
+          "height": {
+            "value": "{dimension.size.40}",
+            "type": "dimension"
+          },
+          "radius": {
+            "value": "{dimension.radius.small}",
+            "type": "dimension"
+          }
+        },
+        "small": {
+          "padding": {
+            "value": "412px",
+            "type": "dimension"
+          },
+          "height": {
+            "value": "{dimension.size.32}",
+            "type": "dimension"
+          },
+          "radius": {
+            "value": "{dimension.radius.small}",
+            "type": "dimension"
+          }
+        }
+      }
+    }
+  }
+}
